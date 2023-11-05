@@ -1,0 +1,59 @@
+*{
+   margin: 0%;
+   padding: 0%;
+} 
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style:normal; 
+    background-size: cover;
+    color: #f0f0f0;
+    font-weight:normal;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    line-height: 2em;
+
+}
+h1{
+    text-transform: capitalize;
+    text-decoration:none;
+    word-spacing: normal;
+    text-align: center;
+
+}
+p.one, p.two, p.three {
+    text-indent: 40px;
+    
+}
+p{
+    font-weight:lighter;
+}
+q{
+    font-style: italic;
+    color: rgb(0, 243, 190);
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: rgb(7, 213, 240);
+}
+a:hover{
+    color: pink;
+}
+a:active{
+    background-color: bisque;
+    color: #fc008a;
+}
+a:focus{
+    color: rgb(212, 18, 203);
+}
+a{
+    font-weight:lighter;
+}
+ul ,ol {
+    text-align: center;
+}
+dt{
+    
+}
